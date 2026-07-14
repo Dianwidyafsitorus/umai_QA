@@ -41,5 +41,7 @@ npx playwright install
 ### Run all feature
 ```bash
 npm run test
-npm run report
 ```
+
+## Recording Running
+https://drive.google.com/file/d/1j2WD8kc6X2e0vW-fLpCmmKDqB-9Yjz3s/view?usp=sharing 
